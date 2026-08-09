@@ -2,7 +2,12 @@
 
 Thank you for downloading ZC Vein Miner Durability is not Reduced [RP]
 
-[![Video title](thumbnail.jpg)](https://youtu.be/fCRx1caz7R4?si=6dQEjpYv6S8lakRx)
+[![Video title](thumbnail.jpg)]()
+# My Video Guide
+
+[![Watch the video](https://youtu.be/fCRx1caz7R4?si=6dQEjpYv6S8lakRx)](https://youtu.be/fCRx1caz7R4?si=6dQEjpYv6S8lakRx)
+
+Or watch on [YouTube](https://youtu.be/fCRx1caz7R4?si=6dQEjpYv6S8lakRx)
 
 The Behavior Pack is available at the link below
 - https://lynk.id/zacraft-store/5j267j6d8jyo
