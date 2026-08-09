@@ -1,4 +1,4 @@
-**Hello this is ZACRAFT2012**
+<h1>Hello this is ZACRAFT2012</h1>
 
 Thank you for downloading ZC Vein Miner Durability is not Reduced [RP]
 
